@@ -26,7 +26,7 @@ print (Fore.RED+"""
  ░          ░  ░     ░  ░░ ░      ░  ░    ░       ░     ░        ░    
       ░                  ░                     ░               ░      
 
-                                    Made with ❤️️  by """+Fore.BLUE+"p1ngul1n0\n")
+                                    Made with ❤️️  by """+Fore.BLUE+"Горшок\n")
 
 file = open('data.json')
 searchData = json.load(file)
